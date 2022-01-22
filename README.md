@@ -29,6 +29,7 @@ Heya! I'm Vishnu V
 ````
 
 # My Statistics
+![Vishnu's github stats](https://github-readme-stats.vercel.app/api?username=KpnDevelopment)
 
 <br/>
 <p align="left">
