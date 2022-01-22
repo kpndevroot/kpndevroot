@@ -19,11 +19,11 @@ Heya! I'm Vishnu V
     
   const profile = () => 
   {
-    self.name = "Vishnu V";
-    self.username = "kpndev";
-    self.location = "Kerala, India";
-    self.twitter = "nill";
-    self.web = "nill";
+    name = "Vishnu V";
+    username = "kpndev";
+    location = "Kerala, India";
+    twitter = "nill";
+    web = "nill";
   }
 ````
 
