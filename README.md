@@ -28,5 +28,5 @@ Heya! I'm Vishnu V
 ````
 
 # My Statistics
-![github stats](https://github-readme-stats.vercel.app/api?username=KpnDevelopment&theme=blue-green)
+![github stats](https://github-readme-stats.vercel.app/api?username=kpndevroot&theme=blue-green)
 
