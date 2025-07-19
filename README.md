@@ -26,7 +26,6 @@ Heya! I'm Vishnu V
     web = "nill";
   }
 ````
-# <a href="https://app.daily.dev/kpndev_root"><img src="https://api.daily.dev/devcards/c5271094f2d64827807eff4b04a272f3.png?r=sqk" width="400" alt="kpndevroot's Dev Card"/></a>
 # My Statistics
 
 <!---![github stats](https://github-readme-stats.vercel.app/api?username=kpndevroot&theme=blue-green)--->
